@@ -1,0 +1,9 @@
+PORT=3000
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=root
+DB_NAME=cricketgame
+JWT_SECRET=your_jwt_secret
+ENCRYPTION_KEY=secretkey1234567890
+DB_PORT=3306
+ENCRYPTION_SHIFT=3
